@@ -15,7 +15,7 @@
 #include <sys/msg.h>
 
 #define MAX_ZAM 1000
-#define FREQ 0.5
+#define FREQ 1
 
 struct msgbuf
 {
